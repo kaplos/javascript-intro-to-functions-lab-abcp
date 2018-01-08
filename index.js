@@ -17,6 +17,6 @@ return "I can't hear you!"
 if (string.toUpperCase()===string){
 return " YES INDEED "
 }
-if (string ==="I LOVE YOU GRANDMA"){
-return "i love you too"
+if (string ==="I Love You, Grandma"){
+return "i love you, too"
 }
